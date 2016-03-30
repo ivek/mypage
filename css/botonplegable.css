@@ -1,0 +1,60 @@
+body{
+	background: orange;
+}
+header img{
+	float: left;
+	
+
+}
+hgroup{
+	color: white;
+	font-size: 1,5em;
+	text-align: center;
+}
+ li{
+	list-style-type: none;
+		text-align: center;
+		display: inline-block;
+		height: 40px;
+
+		
+
+}
+ul{
+
+	float: left;
+	font-size: 1.5em;
+
+	
+}
+ li a{
+	color: white;
+	background: gray;
+	
+	font-variant: verdana,arial;
+	font-size: 1.5em;
+	
+	text-decoration: none;
+
+
+}
+li a:hover{
+	color: red;
+	display: inline;
+	background-color: black;
+
+}
+fieldset img{
+	float: left;
+	
+}
+form{
+	float: right;
+	width: 35%;
+	font-size: 1.5em;
+}
+footer figure{
+	float: right;
+	color: white;
+	font-family: verdana,arial;
+}

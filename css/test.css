@@ -1,0 +1,82 @@
+.cabecera{
+	background-image: url('../systemsivek/img/fonheader.png');
+	background-color: red;
+}
+body{
+	background-image: url("../systemsivek/img/fonheader.png");
+	background-color: red;
+
+}
+hgroup{
+	background-color: yellow;
+	color: red;
+	text-align: center;
+}
+
+nav li{
+	color: olive;
+	display: inline-block;
+	background-color: blue;
+	color:white; 
+	width: 14%;
+	text-align: center;
+	list-style-type: none;
+	height: 40px;
+	font-size: 2em;
+}
+nav{
+	background-color: yellow;
+	height: 60px;
+	clear: both;
+}
+
+li:hover{
+	color: red;
+	background-color:black; 
+	cursor: pointer;
+}
+
+section{
+	background-color: lightblue;
+	width: 75%;
+	height: 720px;
+	float: left;
+	font-size: 16px;
+	font-family: verdana,arial;
+
+
+}
+
+aside{
+	float: right;
+	width: 25%;
+	text-align: center;
+	background-color:red;
+	color: yellow;
+	background-image: url("../systemsivek/img/fonheader.png");
+}
+aside li{
+	list-style-type: none;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+	cursor: pointer;
+}
+h1{
+	text-align: center;
+}
+footer {
+	clear: both;
+	color: white;
+}
+figure{
+	float: right;
+}
+header figure{
+	float: left;
+}
