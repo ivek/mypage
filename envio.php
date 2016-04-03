@@ -81,7 +81,7 @@
             var a = d.createElement(t), s = d.getElementsByTagName(t)[0];
             a.async = a.src = '//cdn.speaklyn.com/d6bcdb19e7d5c3031d12403a1472b18c.js';
             s.parentNode.insertBefore(a, s);
-            }(document, 'script'));
+            }(document, 'script')); 
         </script>
     </body>
 </html>
